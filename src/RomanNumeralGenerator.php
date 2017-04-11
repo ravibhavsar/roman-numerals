@@ -2,8 +2,6 @@
 
 namespace Larowlan\RomanNumeral;
 
-use SebastianBergmann\ObjectEnumerator\InvalidArgumentException;
-
 /**
  * Defines a class for generating roman numerals from integers.
  */
